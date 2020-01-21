@@ -1,0 +1,224 @@
+@font-face {
+	font-family: 'BYekan';
+	src: url('BYekan.eot?#') format('eot'),  /* IE6–8 */ url('BYekan.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('BYekan.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+    	overflow-x:hidden;
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+html {
+	overflow-y: scroll;
+}
+
+body {
+     direction:rtl;
+	background-color: #FFF;
+	color: #ccc;
+     font-family:Tahoma,arial;
+     font-style:normal;
+	margin: 0px;
+	padding: 25px 0 0 0;
+}
+#header {
+     position: relative; z-index:100;
+     min-height:105px;
+     width:100%;
+	background-color: #333333;
+	border-bottom: 4px solid #C50203;
+}
+#title {
+     position: absolute; z-index:101;
+     right:16%; top: 15px;
+     min-height:55px;
+}
+#menur {
+     position: absolute; z-index:101;
+     right: 15%; top: 86px;
+     min-height:20px;
+     padding-bottom:10px;
+}
+#menul {
+     position: absolute; z-index:101;
+     left: 15%; top: 86px;
+     min-height:20px;
+     padding-bottom:10px;
+}
+#menuc {
+     position: absolute; z-index:101;
+     left: 35%; top: 86px;
+     min-height:20px;
+     padding-bottom:10px;
+}
+.menu {
+     font-size:12px;
+}
+.menu a:link,.menu a:visited,.menu a:active {
+     font-size:12px;
+	text-decoration:none;
+	padding: 5px 6px;
+	color: #b5b5b5;
+}
+.menu a:hover {
+	text-decoration:none;
+	color: #fff;
+	border-bottom: 2px solid #f50203;
+}
+h1 {
+	color: #ccc;
+     font-family:'Byekan',Tahoma,arial;
+     font-weight: normal;
+     font-size:28px;
+     font-weight:900;
+}
+h2 {
+	border-bottom: 1px solid #c4c4c4;
+	color: #333;
+     font-family:'Byekan',Tahoma,arial;
+     font-weight: normal;
+     font-size:16px;
+     font-weight:900;
+     padding: 8px;
+     padding-bottom: 10px;
+	background-color: #F4F4F4;
+}
+#body {
+     position: relative; z-index:100;
+     height:790px;
+     width:100%;
+     margin-top:70px;
+}
+#toppb {
+     position: absolute; z-index:101;
+     top: -65px;
+     min-height:240px;
+     width:100%;
+	padding:2px;
+	text-align:center;
+}
+#topb {
+     position: absolute; z-index:101;
+     left: 15%; top: 15px;
+     min-height:240px;
+	border: 1px solid #ccc;
+	padding:2px;
+	text-align:center;
+	width:245px;
+}
+#botb {
+     position: absolute; z-index:101;
+     left: 15%; top: 435px;
+     min-height:240px;
+	border: 1px solid #ccc;
+	padding:2px;
+	text-align:center;
+	width:245px;
+}
+#cotb {
+     position: absolute; z-index:101;
+     left: 15%; top: 285px;
+	border: 1px solid #ccc;
+	padding:5px;
+	text-align:center;
+	width:245px;
+}
+#contop {     
+     position: absolute; z-index:101;
+     left: 43%; top: 15px;
+     min-height:140px;
+     min-width:49%;
+	border: 1px solid #ccc;
+	text-align:right;
+}
+td {
+	color: #454545;
+     font-family:'Tahoma',arial;
+     font-size:13px;
+     padding:8px;
+}
+.ud {
+      margin-left:-70px;
+}
+#cban {
+     position: absolute; z-index:101;
+     left: 43%; top: 330px;
+     min-height:140px;
+     min-width:49%;
+     text-align:center;
+}
+#rss {     
+     position: absolute; z-index:101;
+     left: 43%; top: 400px;
+     min-height:140px;
+     min-width:49%;
+	border: 1px solid #ccc;
+	text-align:right;
+}
+.rss {
+	color: #999;
+     line-height: 75%;
+     padding: 8px;
+     
+}
+.rss a:link,.rss a:visited,.rss a:active {
+     font-size:12px;
+	text-decoration:none;
+	color: #777;
+}
+.rss a:hover {
+	text-decoration:none;
+	color: #222;
+}
+#footer {
+     margin-top:110px;
+     position: relative; z-index:100;
+     min-height:105px;
+     width:100%;
+	background-color: #333333;
+	border-top: 2px solid #C50203;
+}
+#copy {
+     position: absolute; z-index:101;
+     left: 250px; bottom: 15px;
+}

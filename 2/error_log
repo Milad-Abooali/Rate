@@ -1,0 +1,35 @@
+[27-Sep-2013 15:31:35 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag creator line 26 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:31:35 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag item line 21 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:31:35 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag channel line 11 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:31:35 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag rss line 2 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:31:35 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:31:38 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag creator line 26 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:31:38 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag item line 21 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:31:38 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag channel line 11 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:31:38 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag rss line 2 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:31:38 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:33:43 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag creator line 26 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:33:43 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag item line 21 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:33:43 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag channel line 11 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:33:43 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag rss line 2 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:33:43 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:34:18 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:35:49 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:36:24 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag creator line 26 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:36:24 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag item line 21 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:36:24 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag channel line 11 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:36:24 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag rss line 2 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 109
+[27-Sep-2013 15:36:24 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:36:28 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:37:03 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:37:11 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 15:37:54 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 114
+[27-Sep-2013 08:31:53 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/codebox/public_html/pojo/rate/index.php on line 113
+[28-Sep-2013 17:27:54 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 115
+[28-Sep-2013 17:28:31 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 115
+[28-Sep-2013 17:29:06 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 115
+[28-Sep-2013 17:34:35 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag creator line 26 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 110
+[28-Sep-2013 17:34:35 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag item line 21 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 110
+[28-Sep-2013 17:34:35 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag channel line 11 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 110
+[28-Sep-2013 17:34:35 Asia/Tehran] PHP Warning:  DOMDocument::load(): Premature end of data in tag rss line 2 in http://abineh.com/feed/rss2, line: 26 in /home/codebox/public_html/pojo/rate/index.php on line 110
+[28-Sep-2013 17:34:35 Asia/Tehran] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/codebox/public_html/pojo/rate/index.php on line 115
