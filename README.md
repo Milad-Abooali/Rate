@@ -10,11 +10,11 @@ however I uploaded the first published version as start point for newbie and als
 
 # type 1
 
-![rate](1.png)
+![rate](1.PNG)
 
 # type 2
 
-![rate](2.png)
+![rate](2.PNG)
 
 # type 3
-![rate](3.png)
+![rate](3.PNG)
